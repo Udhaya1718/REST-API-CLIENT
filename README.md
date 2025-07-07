@@ -25,4 +25,4 @@ The program uses a JSON parsing library (like Gson or org.json) to extract speci
 Finally, it prints the extracted data in a structured and readable format in the console — sometimes using colors or formatting for better presentation.
 
 Output:
- 
+ ![Image](https://github.com/user-attachments/assets/17d75125-9b22-4016-9afd-59a830912f93)
